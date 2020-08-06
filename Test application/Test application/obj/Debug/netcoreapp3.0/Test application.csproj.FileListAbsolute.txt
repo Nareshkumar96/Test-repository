@@ -1,0 +1,35 @@
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.exe
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.deps.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.runtimeconfig.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.runtimeconfig.dev.json
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.dll
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.pdb
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.Views.dll
+E:\Dotnet core projects\Test application\Test application\bin\Debug\netcoreapp3.0\Test application.Views.pdb
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.csprojAssemblyReference.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\staticwebassets\Test application.StaticWebAssets.Manifest.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\staticwebassets\Test application.StaticWebAssets.xml
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.MvcApplicationPartsAssemblyInfo.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.RazorAssemblyInfo.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.RazorAssemblyInfo.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.AssemblyInfoInputs.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.AssemblyInfo.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.TagHelpers.input.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.TagHelpers.output.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.RazorCoreGenerate.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.RazorTargetAssemblyInfo.cache
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.RazorTargetAssemblyInfo.cs
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.Views.pdb
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.dll
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.pdb
+E:\Dotnet core projects\Test application\Test application\obj\Debug\netcoreapp3.0\Test application.csproj.CopyComplete
